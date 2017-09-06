@@ -1,0 +1,23 @@
+{
+  "name": "webdev-boilerplate",
+  "version": "1.0.0",
+  "description": "a simple express server for local development",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dawidsappich/webdev-boilerplate.git"
+  },
+  "author": "dawid sappich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dawidsappich/webdev-boilerplate/issues"
+  },
+  "homepage": "https://github.com/dawidsappich/webdev-boilerplate#readme",
+  "devDependencies": {
+    "express": "^4.15.4",
+    "morgan": "^1.8.2"
+  }
+}
