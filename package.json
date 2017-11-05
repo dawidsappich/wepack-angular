@@ -16,8 +16,9 @@
     "url": "https://github.com/dawidsappich/webdev-boilerplate/issues"
   },
   "homepage": "https://github.com/dawidsappich/webdev-boilerplate#readme",
-  "devDependencies": {
-    "express": "^4.15.4",
-    "morgan": "^1.8.2"
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
   }
 }
